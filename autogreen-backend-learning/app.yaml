@@ -1,0 +1,14 @@
+runtime: python311
+
+entrypoint: gunicorn -b :$PORT app:app
+
+instance_class: F2
+
+env_variables:
+  CLOUD_SQL_CONNECTION_NAME: "valid-octagon-429920-c3:northamerica-northeast2:autogreen-backend"
+  DB_USER: "autogreen-backend"
+  DB_PASS: "pin-han-disciples"
+  DB_NAME: "autogreen"
+
+beta_settings:
+  cloud_sql_instances: "valid-octagon-429920-c3:northamerica-northeast2:autogreen-backend"

@@ -1,0 +1,21 @@
+species_name,min_temp_range,max_temp_range,watering_frequency,watering_amount,plant_moisture_level
+Spider Plant,15,25,7 days,200,40
+Snake Plant,13,30,14 days,100,20
+Peace Lily,18,27,5 days,250,60
+Fiddle Leaf Fig,16,24,7 days,300,40
+Monstera Deliciosa,18,27,7 days,200,40
+ZZ Plant,18,30,14 days,100,20
+Pothos,18,30,7 days,150,40
+Aloe Vera,15,25,21 days,50,20
+Boston Fern,18,24,3 days,250,80
+Philodendron,18,27,7 days,200,40
+Rubber Plant,15,25,7 days,300,40
+Chinese Evergreen,15,29,7 days,200,40
+Jade Plant,15,25,14 days,100,20
+Calathea,18,24,3 days,250,80
+Dracaena,15,26,7 days,200,40
+English Ivy,10,20,7 days,150,40
+Cast Iron Plant,15,24,14 days,150,40
+Areca Palm,18,24,7 days,250,60
+Parlor Palm,15,24,7 days,200,40
+Succulent,10,30,21 days,50,20
